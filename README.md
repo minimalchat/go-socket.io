@@ -2,6 +2,8 @@
 
 [![GoDoc](http://godoc.org/github.com/googollee/go-socket.io?status.svg)](http://godoc.org/github.com/googollee/go-socket.io) [![Build Status](https://travis-ci.org/googollee/go-socket.io.svg)](https://travis-ci.org/googollee/go-socket.io)
 
+**This is a fork of a open source library that has since updated with breaking changes, Minimal Chat is only using this until we can update our own source code, PLEASE DONT USE THIS SPECIFIC FORK OTHERWISE IT IS OUTDATED**
+
 **Please use v1.4 branch, or import "gopkg.in/googollee/go-socket.io.v1". I have no time to maintain master branch now**
 
 go-socket.io is an implementation of [socket.io](http://socket.io) in golang, which is a realtime application framework.
